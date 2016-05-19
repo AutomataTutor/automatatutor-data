@@ -1,5 +1,5 @@
-# automatatutor-data
-Solutions submitted on Automata Tutor.
+# Data from the tool Automata Tutor 
+Solutions submitted on Automata Tutor [automatatutor.com].
 This project contains the following types of assignments:
 - DFA constructions from English description of a regular language
 - NFA constructions from English description of a regular language
